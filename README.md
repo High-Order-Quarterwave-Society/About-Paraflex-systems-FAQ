@@ -4,7 +4,7 @@
 ## F.A.Q.
 
 ### Who are the creators of the Paraflex type system?
-The Paraflex concept waS first brought into the world by its founders; M. Morgan J., D. Morgan (Flex Tech Design) and J. Vansickle (Paragon Concepts)
+The Paraflex concept is brought into the world by its founders; M. Morgan J., D. Morgan (Flex Tech Design) and J. Vansickle (Paragon Concepts)
 
 ### Where does the name Paraflex come from?
 The name is a double portmanteau, the word is created from two other words namely Para (Paragon Concepts) and Flex (Flex Tech Design) 
