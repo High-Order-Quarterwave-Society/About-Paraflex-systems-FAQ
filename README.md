@@ -19,3 +19,11 @@ the 'Higher Order' simply describes a quarterwave cabinet with multiple resonato
 ### Are there only Paraflex subwoofers?
 No Paraflex is extended into mid-bass (kick-bins) and/or mid-range (tops) cabinet designs, either in single or double or even triple configurations all sharing the same design principle. 
 
+## Practical information
+
+### Are holes (round/triangle/etc) in braces required?
+No, holes in braces are mostly for esthetic reasons or saving some weight on the cabinet. The loses over the bandwidth are non existing or very minimal
+
+### Filling, stuffing, padding, wadding, damping what are these? 
+Damping / padding is for damping resonances/vibrations in panels, reduce transmission or reflections of the cabinet panels, mostly bitumen or felt type layers that can be nailed/glued to panels on the inside of the cabinet.
+Filling/wadding/stuffing are for 'fill' parts of the cabinet volume with fluffy polyfill type. Fopr example in the paraflex subs we use polyfill in the HTR at specific places to get rid of resonances at curtain frequencies.
