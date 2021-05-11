@@ -27,3 +27,8 @@ No, holes in braces are mostly for esthetic reasons or saving some weight on the
 ### Filling, stuffing, padding, wadding, damping what are these? 
 Damping / padding is for damping resonances/vibrations in panels, reduce transmission or reflections of the cabinet panels, mostly bitumen or felt type layers that can be nailed/glued to panels on the inside of the cabinet.
 Filling/wadding/stuffing are for 'fill' parts of the cabinet volume with fluffy polyfill type. Fopr example in the paraflex subs we use polyfill in the HTR at specific places to get rid of resonances at curtain frequencies.
+
+### Do I need to round edges of the panels inside the subwoofer cabinet?
+No, since the waves of the lower frequencies are so long (100hz = 3 meter) the waves will not see small bumbs, rounded edges etc.
+
+
