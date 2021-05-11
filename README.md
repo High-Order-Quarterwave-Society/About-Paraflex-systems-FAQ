@@ -1,4 +1,4 @@
-## About-Paraflex-systems
+## About the Paraflex Loudspeaker Cabinets
 #### FAQ and Documentation
 
 ## F.A.Q.
