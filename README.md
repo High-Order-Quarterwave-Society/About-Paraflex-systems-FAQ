@@ -1,34 +1,38 @@
 ## About the Paraflex Loudspeaker Cabinets
 #### FAQ and Documentation
 
-## F.A.Q.
+## FAQ
 
 ### Who are the creators of the Paraflex type system?
-The Paraflex concept is brought into the world by its founders; M. Morgan J., D. Morgan (Flex Tech Design) and J. Vansickle (Paragon Concepts)
+The Paraflex concept is brought into the world by its founders: M. Morgan J., D. Morgan (Flex Tech Design) and J. Vansickle (Paragon Concepts)
 
 ### Where does the name Paraflex come from?
-The name is a double portmanteau, the word is created from two other words namely Para (Paragon Concepts) and Flex (Flex Tech Design) 
+The name is a combination of two words: "Para" from Paragon Concepts and "Flex" from Flex Tech Design.
 
 ### What kind of system is a Paraflex?
-Paraflex consists of two parallel [Quarter Wave](https://en.wikipedia.org/wiki/Loudspeaker_enclosure#Quarter_wave_enclosure) Resonators which combine into one exit chamber (or mouth). There is a Low Tuned Resonator and a High Tuned Resonator (for short LTR and HTR). This makes a very efficient high output SPL cabinet. A positive side effect of combining the LTR and HTR is a high presure zone in front of the HTR chamber waht results in  better cone control of the driver used. A downside of the Paraflex is the requirement of drivers with high motor force (Bl). A Paraflex cabinet is usually a bit larger than other cabinet designs (there is no free lunch) because we need the HTR large enough for the resonator to take effect and also to allow the LTR to 'flow' into it.
+The Paraflex system consists of two parallel [Quarter Wave](https://en.wikipedia.org/wiki/Loudspeaker_enclosure#Quarter_wave_enclosure) Resonators, which combine into one exit chamber (or mouth). It includes a Low Tuned Resonator (LTR) and a High Tuned Resonator (HTR), making it a very efficient high-output SPL cabinet. The combination of LTR and HTR results in a high-pressure zone in front of the HTR chamber, improving cone control of the driver used. However, the Paraflex requires drivers with high motor force (Bl). Due to the need to tune both resonators and align their phases, Paraflex cabinets are usually a bit larger than other designs. Nevertheless, once the tuning is complete, they exhibit a powerful and efficient synergy.
 
 
-### What is a Higher Order QuarterWave?
-the 'Higher Order' simply describes a quarterwave cabinet with multiple resonators.
+### What is a Higher Order Quarter-Wave?
+The term "Higher Order Quarter-Wave" simply describes a quarterwave cabinet with multiple resonators.
 
 ### Are there only Paraflex subwoofers?
-No Paraflex is extended into mid-bass (kick-bins) and/or mid-range (tops) cabinet designs, either in single or double or even triple configurations all sharing the same design principle. 
+No, Paraflex extends to mid-bass (kick-bins) and/or mid-range (tops) cabinet designs, available in single, double, or even triple configurations—all sharing the same design principle.
 
 ## Practical information
 
 ### Are holes (round/triangle/etc) in braces required?
-No, holes in braces are mostly for esthetic reasons or saving some weight on the cabinet. The loses over the bandwidth are non existing or very minimal
+No, holes in braces in subwoofer designs are mostly for aesthetic reasons or to save weight on the cabinet. The losses over the bandwidth are non-existent or very minimal. However, we may lose some volume in the paths taken up by the braces. Compensation for the lost volume can be achieved by adding some inner height to the cabinet design. In mid and top designs, solid braces may have some effect since the sound-wave lengths are shorter and may influence the sound.
 
 ### Filling, stuffing, padding, wadding, damping what are these? 
-Damping / padding is for damping resonances/vibrations in panels, reduce transmission or reflections of the cabinet panels, mostly bitumen or felt type layers that can be nailed/glued to panels on the inside of the cabinet.
-Filling/wadding/stuffing are for 'filling' parts of the cabinet volume with fluffy polyfill types. For example in the paraflex subwoofers we use polyfill in the HTR at specific places to get rid of resonances at certain frequencies.
+Damping/padding is for damping resonances/vibrations in panels, reducing transmission or reflections of the cabinet panels—usually accomplished with bitumen or felt type layers that can be nailed/glued to the inside of the cabinet.
+
+Filling/wadding/stuffing involves 'filling' parts of the cabinet volume with fluffy polyfill types. For example, in Paraflex subwoofers, we use polyfill in the LTR or HTR at specific places to get rid of resonances at certain frequencies.
+
+###What does the Helmhotz resonator do in the paraflex designs?
+We primarily use Helmholtz resonators in mid-top design cabinets to tune frequencies, ensuring the cabinet's response is as flat as possible.
 
 ### Do I need to round edges of the panels inside the subwoofer cabinet?
-No, since the waves of the lower frequencies are so long (100hz = 3 meter) the waves will not see small bumbs, rounded edges etc.
+No, since the waves of lower frequencies are so long (100Hz = 3 meters), they will not be affected by small bumps, rounded edges, etc.
 
 
