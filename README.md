@@ -21,8 +21,11 @@ No, Paraflex extends to mid-bass (kick-bins) and/or mid-range (tops) cabinet des
 
 ## Practical information
 
+## Braces, are they required?
+Not bracing the cabinet results in reduced efficiency and raised F-3, due to mechanical losses. So yes good/enough bracing is required especaly on subwoofer designs. It prevents panel flexing/resonances and also strengthen the enclosure. The pressures in Paraflex subwoofer enclosure's are huge.
+
 ### Are holes (round/triangle/etc) in braces required?
-No, holes in braces in subwoofer designs are mostly for aesthetic reasons or to save weight on the cabinet. The losses over the bandwidth are non-existent or very minimal. However, we may lose some volume in the paths taken up by the braces. Compensation for the lost volume can be achieved by adding some inner height to the cabinet design. In mid and top designs, solid braces may have some effect since the sound-wave lengths are shorter and may influence the sound.
+No, holes, in non blocking, braces of Paraflex subwoofer designs are mostly for aesthetic reasons or to save weight. The losses over the bandwidth are non-existent or very minimal. However, we may lose some volume in the paths taken up by the braces. Compensation for the lost volume can be achieved by adding some inner height to the cabinet design. In mid and top designs solid braces may have some effect since the sound-wave lengths are shorter and may influence the sound.
 
 ### Filling, stuffing, padding, wadding, damping what are these? 
 Damping/padding is for damping resonances/vibrations in panels, reducing transmission or reflections of the cabinet panels—usually accomplished with bitumen or felt type layers that can be nailed/glued to the inside of the cabinet.
